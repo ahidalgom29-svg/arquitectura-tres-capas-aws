@@ -1,1 +1,0 @@
-# arquitectura-tres-capas-aws
